@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "283553854639",
+    "firebase_url": "https://first-app-7d6b7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "first-app-7d6b7",
+    "storage_bucket": "first-app-7d6b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283553854639:android:b38dafd22550f13911d05a",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ1E9PyXB2iwIE1PswwSZsSvDueF5ozUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
